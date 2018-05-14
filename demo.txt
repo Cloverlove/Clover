@@ -12,3 +12,4 @@ int main()
   cout<<"c"<<endl;
    return 0;
 }
+she is a girl!
